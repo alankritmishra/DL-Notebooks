@@ -1,2 +1,2 @@
-# DL-CompVisionNotebooks
+# DL-Notebooks
 Notebook Projects
